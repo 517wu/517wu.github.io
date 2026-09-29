@@ -1,7 +1,1 @@
-title: 517wu's homepage
-url: "https://517wu.github.io"   # 主網域
-theme: minima                       # 官方主題，如 minima, cayman, jekyll-theme-primer 等
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
+url: "https://username.github.io"   # 主網域
