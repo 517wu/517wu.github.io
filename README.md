@@ -9,8 +9,7 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
 ### 📊 GitHub 統計
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=517wu&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=517wu&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=517wu&theme=radical)
 
 ### 📫 聯絡我
 * Email: acs112105@gm.ntcu.edu.tw
